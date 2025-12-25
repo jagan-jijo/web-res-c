@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+Developed by Jagan Jijo.
+Reach out to @lumelensmedia on Instagram to host yours.
 
-Template Name: Restaurantly
-Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Tech stack:
+- HTML5, CSS3, and vanilla JavaScript
+- Static assets (images/icons/fonts)
+- Optional PHP contact form handler where included

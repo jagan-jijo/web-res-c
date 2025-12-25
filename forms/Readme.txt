@@ -1,2 +1,7 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/restaurantly-restaurant-template/
+Developed by Jagan Jijo.
+Reach out to @lumelensmedia on Instagram to host yours.
+
+Tech stack:
+- HTML5, CSS3, and vanilla JavaScript
+- Static assets (images/icons/fonts)
+- Optional PHP contact form handler where included
